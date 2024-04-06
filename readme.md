@@ -9,7 +9,7 @@
     - repo : 
     - memo :
 - 効果検証入門
-    - repo : 
+    - repo : https://github.com/morison28/koka-kensho-nyumon
     - memo : 
 - サンプルサイズの決め方
     - repo : https://github.com/morison28/how2decide_sample_size
