@@ -15,7 +15,7 @@
     - repo : https://github.com/morison28/how2decide_sample_size
     - memo : 
 - 因果推論入門
-    - repo :
+    - repo : https://github.com/morison28/py-causal-inference
     - memo : 
 - [カスタマーサクセス - サブスクリプション時代に求められる「顧客の成功」10の原則](./memo/cs_10.md)
 - カスタマーサクセスプロフェッショナル
